@@ -21,6 +21,7 @@ HTML5 Video Speed Control 【快捷键绑定 上下箭头】
 lastpass 网页密码管理
 Octotree Github源码侧边栏展开
 Open in IINA 网页视频用IINA打开
+Vimum 
 几枝  新标签页
 彩云小译 - 网页翻译插件
 哔哩哔哩(Bilibili)播放器扩展【弹幕 自动播放 屏蔽底部弹幕 默认关灯 式默认显示模式 快捷键】
