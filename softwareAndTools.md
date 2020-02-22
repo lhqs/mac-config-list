@@ -1,6 +1,6 @@
 ## 软件 & 工具篇[简洁版]
 
-软件 & 工具篇: [具体介绍版]()
+// 软件 & 工具篇: [具体介绍版]()
 
 ### 常用软件
 
@@ -63,6 +63,7 @@ go2Shell
 ### 工具
 ```
 brew
+lsof
 git
 ffmpeg
 you-get
@@ -71,5 +72,15 @@ tldr
 aria2
 tmux
 unzip
+htop
+tree
+ab
+qshell
+```
 
+### other（虚拟机安装）
+```
+linux平台： docker nginx  tomcat  mysql postgresql 
+
+windows平台： opc-ua客户端   ie浏览器     
 ```
