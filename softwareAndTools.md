@@ -80,7 +80,7 @@ qshell
 
 ### other（虚拟机安装）
 ```
-linux平台： docker nginx  tomcat  mysql postgresql 
+linux平台： docker nginx  tomcat  mysql postgresql  redis ....
 
-windows平台： opc-ua客户端   ie浏览器     
+windows平台： opc-ua客户端   ie浏览器  potplayer xshell IDM  12306分流抢票（12306Bypass） fscapture everything
 ```
