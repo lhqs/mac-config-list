@@ -12,6 +12,6 @@
 
 [常用设置篇]()
 
-[插件篇]()
+[插件篇](./plugin.md)
 
-[虚拟机篇]()
+[虚拟机篇(Linux/Windows10)](./virtualMachine.md)
