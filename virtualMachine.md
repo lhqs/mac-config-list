@@ -8,6 +8,8 @@ docker
 nginx
 mysql
 postgrel
+tomcat
+redis
 htop
 zsh
 ```
@@ -21,7 +23,13 @@ zsh
 ```
 SumatraPDF
 opc ua 客户端｜服务端
-
+ie浏览器     
+potplayer 
+xshell 
+IDM  
+12306分流抢票（12306Bypass） 
+fscapture 
+everything
 
 ```
 
