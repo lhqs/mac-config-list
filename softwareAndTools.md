@@ -15,6 +15,7 @@ ShadowsocksX-NG
 Gridea
 Android文件传输
 Snip
+WPS Office
 ```
 
 
