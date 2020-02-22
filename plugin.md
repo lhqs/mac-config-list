@@ -17,15 +17,19 @@ Chrome plug-in
 OneTab  网页tab页管理
 Adblock Plus - 免费的广告拦截器
 AutoPagerize 自助翻页
+Wappalyzer  
+Video Speed Controller | HTML5 Video Speed Control | Video Speed Controller
 HTML5 Video Speed Control 【快捷键绑定 上下箭头】
 lastpass 网页密码管理
 Octotree Github源码侧边栏展开
 Open in IINA 网页视频用IINA打开
-Vimum 
+vimium   
 几枝  新标签页
 彩云小译 - 网页翻译插件
 哔哩哔哩(Bilibili)播放器扩展【弹幕 自动播放 屏蔽底部弹幕 默认关灯 式默认显示模式 快捷键】
 云盘万能钥匙 
+SimilarWeb - 网站流量来源和排名 
+ 购物党自动比价工具
 一键管理扩展
 ```
 
