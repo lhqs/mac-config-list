@@ -1,6 +1,6 @@
 # My-Mac-config-list
 
-我的Mac的所有配置整理
+### 我的Mac的所有配置整理
 
 [常用配置篇](./config.md)
 
