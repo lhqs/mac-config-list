@@ -1,4 +1,6 @@
-## 软件 & 工具篇
+## 软件 & 工具篇[简洁版]
+
+软件 & 工具篇: [具体介绍版]()
 
 ### 常用软件
 
@@ -15,7 +17,8 @@ ShadowsocksX-NG
 Gridea
 Android文件传输
 Snip
-WPS Office
+WPS-Office
+The-Unarchiver
 ```
 
 
