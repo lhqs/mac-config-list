@@ -4,6 +4,17 @@
 
 ### 常用软件
 
+系统自带
+```
+终端  备忘录  音乐
+词典 播客  地图 启动台
+预览  照片  日历 截屏
+App Store
+iMovie iBookSiri Safari 
+Keynote page Numbers
+活动监视器 系统偏好设置
+```
+
 日常
 ```
 微信  QQ  telegram
@@ -11,7 +22,7 @@ OneNote Sublime VScode
 qq音乐  网易云音乐
 IINA  Movist Pro
 百度云网盘 
-Safari Chrome 360Brower 
+Chrome 360Brower 
 Alfred4
 ShadowsocksX-NG
 Gridea
