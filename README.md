@@ -14,4 +14,7 @@
 
 [虚拟机篇(Linux/Windows10)](./virtualMachine.md)
 
+
+[Mac M1 安装配置(更新)](https://www.yuque.com/lhqs/log/nmw598)
+
 > 持续整理更新中。。。。
